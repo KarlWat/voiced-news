@@ -1,6 +1,7 @@
 {
   "name": "ai_chat_news_weather_app",
   "version": "0.1.0",
+  "homepage": "https://voiced-news.herokuapp.com/",
   "private": true,
   "engines": {
     "node": "12.18.1",
