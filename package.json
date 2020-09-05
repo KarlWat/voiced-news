@@ -1,5 +1,6 @@
 {
   "name": "voiced-news",
+  "homepage": "https://voiced-news.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "engines": {
