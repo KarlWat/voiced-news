@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000;
 app.use(express.static(__dirname + '/publicPath/build'));
 
 app.get('*', (req, res) => {
-   res.sendFile(path.join(publicPath));
+   res.sendFile(path.join(publicPath, 'index.html'));
 });
 
 app.listen(port, () => {
